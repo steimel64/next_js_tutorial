@@ -13,3 +13,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 1/4/2025: Chapter 7 completed
 1/4/2025: Chapter 8 completed
 1/6/2025: Chapter 9 completed
+1/6/2025: Chapter 10 completed
+1/6/2025: Chapter 11 completed
